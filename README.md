@@ -3,7 +3,7 @@
 
 > Excercices to practice C, based in the course: C Language + Algorithms + Data Structures = Power.
 
-![](course.png)
+![](course.JPEG)
 
 [![Build Status][travis-image]][travis-url]
 
