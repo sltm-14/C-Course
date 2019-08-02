@@ -1,8 +1,9 @@
-# Product Name
-> Short blurb about what your product does.
+# C - Exercices
+
+> Excercices to practice C.
 
 [![Build Status][travis-image]][travis-url]
 
-[travis-image]: https://img.shields.io/badge/--%20-Link%20to%20buy%20---green
+[travis-image]: https://img.shields.io/badge/Udemy-Link%20to%20buy-blue
 
 [travis-url]: https://www.udemy.com/clang-algo-ds/
