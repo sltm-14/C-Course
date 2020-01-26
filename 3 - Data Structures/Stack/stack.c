@@ -1,18 +1,20 @@
+/* Libraries */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
+/*Structure for nodes of the stack, contains the value that need to be saved and a pointer for the next node*/
 struct stack_node {
     int value;
     struct stack_node * next;
 };
 typedef struct stack_node stack_node;
 
+/*Structure for the stack, contains the size and a pointer for the top */
 struct stack{
     int size;
     stack_node * top;
 };
-
 typedef struct stack stack;
 
 stack * create_stack(){
